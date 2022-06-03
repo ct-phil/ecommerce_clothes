@@ -1,0 +1,47 @@
+.logo{
+  font-size: 28px;
+  padding: 5px;
+  font-family: "Brush Script MT", cursive;
+  color: #5ebec4;
+  display: flex;
+  justify-content: center;
+}
+form{
+	border: 1px solid #f1f1f1;
+	width: 400px;
+	height: 600px;
+	background-color:#fdf5df;
+}
+
+input{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	box-sizing: border-box;
+	border: 1px solid;
+}
+button{
+	background-color: grey;
+	padding: 14px 20px;
+	margin: 8px 0;
+	cursor: pointer;
+	width: 100%;
+	border: none;
+}
+button:hover{
+	opacity: 0.8;
+}
+.login-info{
+	padding: 16px;
+}
+.new{
+	text-align: center;
+
+}
+input:hover{
+	background-color: #f1f1f1;
+}
+a:hover{
+	color: #f92c85;
+}
